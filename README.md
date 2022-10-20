@@ -1,4 +1,4 @@
-# Template repository for Vite, React and Styled components
+# Template repository for Vite, React and CSS modules
 
 ## Features
 
