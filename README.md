@@ -4,7 +4,8 @@
 
 - Typing with Typescript
 - Linting with Eslint
-- Formatting with Prettier
+- Javascript formatting with Prettier
+- CSS formatting with Stylelint
 - Testing with Vitest and React testing library
 
 ## Prettier configuration for VScode
