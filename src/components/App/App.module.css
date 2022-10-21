@@ -1,0 +1,7 @@
+.app {
+  display: flex;
+}
+
+.appTitle {
+  background-color: aliceblue;
+}
