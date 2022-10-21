@@ -6,6 +6,12 @@ import { resolve } from "path";
 
 export default defineConfig({
   plugins: [react()],
+  css: {
+    modules: {
+      generateScopedName: "[folder]__[local]__[hash:base64:5]",
+      localsConvention: "camelCaseOnly",
+    },
+  },
   resolve: {
     alias: {
       "@components": resolve(__dirname, "src/components"),
