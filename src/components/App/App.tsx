@@ -2,8 +2,8 @@ import classes from "./App.module.css";
 
 const App = () => {
   return (
-    <div className={classes.app}>
-      <div className={classes.appTitle}></div>
+    <div className={classes.container}>
+      <h1 className={classes.title}></h1>
     </div>
   );
 };
