@@ -1,0 +1,14 @@
+{
+  "jsxRuntime": "automatic",
+  "outDir": "src/components/Icon",
+  "ref": true,
+  "svgoConfig": {
+    "plugins": [
+      {
+        "name": "prefixIds",
+        "active": true
+      }
+    ]
+  },
+  "typescript": true
+}
